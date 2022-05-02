@@ -5,7 +5,7 @@ To play the game, run Wordle-Game.py and start guessing!
 
 You can see thee Jupyter Notebook of the game for more clarity on how it was written :D
 
-This is how thee game runs on the Jupyter Notebook: 
+This is how the game runs on the Jupyter Notebook: 
 
 <img width="536" alt="Screenshot 2022-05-02 at 6 44 21 AM" src="https://user-images.githubusercontent.com/43760737/166175078-0e6969cf-a8d8-45b8-bb87-103ad21eb971.png">
 
@@ -14,3 +14,5 @@ This is how you will see in the terminal:
 <img width="536" alt="image" src="https://user-images.githubusercontent.com/43760737/166175246-5ea22297-c76b-4a55-a574-97e54f8f956a.png">
 
 More features are being developed and any feedback is appreciated!
+
+Note: To see how to use your own corpus and customise, open Wordle-Game.ipynb and follow the markdowns. The default 5 letter corpus is sufficiently large and clean to have a great experience. It has been cleaned of all obscene and derogatory words. If you want to modify this corpus, you can edit the corpus file.
