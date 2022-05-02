@@ -1,7 +1,7 @@
 # WordleGame
 Creating the popular Wordle Game with Python. This version of game is dynamic enough to work with any corpus you feed in and you can set the length of word to guess and number of tries. The default version has a 5 letter words corpus with 6 tries, like in the original world. This is functional and an interactive version with a front-end will be released soon!
 
-To play the game, run Wordle-Game.py and start guessing!
+To play the game, run `Wordle-Game.py` and start guessing!
 
 You can see thee Jupyter Notebook of the game for more clarity on how it was written :D
 
@@ -15,4 +15,4 @@ This is how you will see in the terminal:
 
 More features are being developed and any feedback is appreciated!
 
-Note: To see how to use your own corpus and customise, open Wordle-Game.ipynb and follow the markdowns. The default 5 letter corpus is sufficiently large and clean to have a great experience. It has been cleaned of all obscene and derogatory words. If you want to modify this corpus, you can edit the corpus file.
+Note: To see how to use your own corpus and customise, open `Wordle-Game.ipynb` and follow the markdowns. The default 5 letter corpus is sufficiently large and clean to have a great experience. It has been cleaned of all obscene and derogatory words. If you want to modify this corpus, you can edit the corpus file.
